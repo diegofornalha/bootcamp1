@@ -15,6 +15,14 @@ sections:
         label: "Mandar Tchauzinho \U0001F31F"
         url: /
         style: primary
+      - type: Link
+        label: "Conectar carteira\_\U0001F512"
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     backgroundImage: null
     styles:
       self:
