@@ -11,7 +11,7 @@ sections:
       Eu sou o danicuki e já trabalhei com música, sabia? Legal, né? Conecte sua
       carteira Ethereum wallet e me manda um tchauzinho!
     actions:
-        justifyContent: center
+        alignItems: center
       - type: Button
         label: "Mandar Tchauzinho \U0001F31F"
         url: /
