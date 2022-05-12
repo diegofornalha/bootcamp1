@@ -18,7 +18,7 @@ sections:
       - type: Link
         label: "Conectar carteira\_\U0001F512"
         altText: ''
-        url: /
+        url: google.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
