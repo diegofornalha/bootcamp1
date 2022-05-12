@@ -16,7 +16,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Learn more
+        label: Conectar carteira
         altText: ''
         url: /
         showIcon: false
