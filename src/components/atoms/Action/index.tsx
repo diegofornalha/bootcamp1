@@ -4,27 +4,7 @@ import Link from '../Link';
 
 
 const iconMap = {
-    apple: Apple,
-    arrowLeft: ArrowLeft,
-    arrowLeftCircle: ArrowLeftCircle,
-    arrowRight: ArrowRight,
-    arrowRightCircle: ArrowRightCircle,
-    cart: Cart,
-    chevronLeft: ChevronLeft,
-    chevronRight: ChevronRight,
-    facebook: Facebook,
-    github: GitHub,
-    googlePlay: GooglePlay,
-    instagram: Instagram,
-    linkedin: LinkedIn,
-    mail: Mail,
-    play: Play,
-    playCircle: PlayCircle,
-    reddit: Reddit,
-    send: Send,
-    twitter: Twitter,
-    vimeo: Vimeo,
-    youtube: YouTube
+
 };
 
 export default function Action(props) {
