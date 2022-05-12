@@ -6,7 +6,7 @@ sections:
     elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: Let's do this
+    title: "\U0001F44B Olá Pessoal!"
     text: >
       Eu sou o danicuki e já trabalhei com música, sabia? Legal, né? Conecte sua
       carteira Ethereum wallet e me manda um tchauzinho!
