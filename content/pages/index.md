@@ -15,6 +15,14 @@ sections:
         label: "Mandar Tchauzinho \U0001F31F"
         url: /
         style: primary
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     backgroundImage: null
     styles:
       self:
