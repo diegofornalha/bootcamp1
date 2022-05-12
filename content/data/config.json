@@ -6,14 +6,7 @@
         "primaryColors": "colors-a",
         "secondaryColors": "colors-f",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "FAQ",
-                "url": "/faq",
-                "altText": ""
-            }
-        ],
+        "primaryLinks": [],
         "secondaryLinks": [],
         "styles": {
             "self": {
