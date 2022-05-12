@@ -1,22 +1,3 @@
 {
-    "type": "Config",
-    "header": {
-        "headerVariant": "variant-c",
-        "primaryColors": "colors-a",
-        "secondaryColors": "colors-f",
-        "isTitleVisible": true,
-        "primaryLinks": [],
-        "secondaryLinks": [],
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-5",
-                    "pb-5",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
-    }
+    "type": "Config"
 }
