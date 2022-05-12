@@ -7,9 +7,9 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      Eu sou o danicuki e já trabalhei com música, sabia? Legal, né? Conecte sua
+      carteira Ethereum wallet e me manda um tchauzinho!
     actions:
       - type: Button
         label: "Mandar Tchauzinho \U0001F31F"
