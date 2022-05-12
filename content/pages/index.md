@@ -12,7 +12,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: "Mandar Tchauzinho \U0001F31F"
         url: /
         style: primary
     backgroundImage: null
