@@ -60,7 +60,6 @@ sections:
     type: MediaGallerySection
   - colors: colors-a
     elementId: ''
-    title: Remote doesn’t mean alone. Here are so great features
     items:
       - type: FeaturedItem
         title: Faster
