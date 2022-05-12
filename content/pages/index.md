@@ -13,12 +13,12 @@ sections:
     actions:
       - type: Button
         label: "Mandar Tchauzinho \U0001F31F"
-        url: /
+        url: youtube.com
         style: primary
       - type: Link
         label: "Conectar carteira\_\U0001F512"
         altText: ''
-        url: /
+        url: google.com
         showIcon: false
         icon: arrowRight
         iconPosition: right
