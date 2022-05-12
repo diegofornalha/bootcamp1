@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: 'Love your work. Work loves you.'
+    title: 'Love your work.'
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
