@@ -16,7 +16,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Conectar carteira
+        label: "Conectar carteira\_\U0001F512"
         altText: ''
         url: /
         showIcon: false
