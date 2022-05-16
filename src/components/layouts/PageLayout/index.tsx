@@ -20,14 +20,7 @@ export default function PageLayout(props) {
                     </h1>
                 )}
 
-    <div className="mainContainer">
 
-      <div className="dataContainer">
-        <div className="header">
-        Oi, eu sou um contrato inteligente!
-        </div>
-        </div>
-        </div>
 
 
                 {sections.length > 0 && (
