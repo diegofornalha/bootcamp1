@@ -18,7 +18,7 @@ export default function PageLayout(props) {
                     </h1>
                 )}
 
-                        <div>
+<div>
                             Oi, eu sou um contrato inteligente!
         </div>
 
