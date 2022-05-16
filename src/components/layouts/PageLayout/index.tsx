@@ -18,8 +18,6 @@ export default function PageLayout(props) {
                     </h1>
                 )}
 
-
-
                 {
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
