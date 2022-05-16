@@ -35,14 +35,6 @@ export default function PageLayout(props) {
                     </div>
                 )}
             </main>
-                <div className="mainContainer">
-
-      <div className="dataContainer">
-        <div className="header">
-        Oi, eu sou um contrato inteligente!
-        </div>
-        </div>
-        </div>
         </BaseLayout>
     );
 }
