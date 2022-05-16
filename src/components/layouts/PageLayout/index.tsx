@@ -9,6 +9,8 @@ export default function PageLayout(props) {
     const sections = page.sections || [];
 
 
+
+
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-page-layout">
@@ -18,7 +20,9 @@ export default function PageLayout(props) {
                     </h1>
                 )}
 
-                {
+
+
+
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
@@ -29,7 +33,7 @@ export default function PageLayout(props) {
                             return <Component key={index} {...section} data-sb-field-path={`sections.${index}`} />;
                         })}
                     </div>
-                )}}
+                )}
             </main>
         </BaseLayout>
     );
