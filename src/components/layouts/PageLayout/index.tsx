@@ -20,7 +20,7 @@ export default function PageLayout(props) {
 
   const getAllWaves = async () => {
       try {      
-      if ()    
+      if (document)    
         const { ethereum } = window;
       if (ethereum) {        
         const provider = new ethers.providers.Web3Provider(ethereum);
