@@ -27,6 +27,7 @@ export default function PageLayout(props) {
         Oi, eu sou um contrato inteligente!
         </div>
         </div>
+        </div>
 
 
                 {sections.length > 0 && (
