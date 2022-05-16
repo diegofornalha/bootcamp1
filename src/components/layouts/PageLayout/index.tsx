@@ -20,7 +20,7 @@ export default function PageLayout(props) {
 
 
 
-                {/* 
+                {
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
@@ -31,7 +31,7 @@ export default function PageLayout(props) {
                             return <Component key={index} {...section} data-sb-field-path={`sections.${index}`} />;
                         })}
                     </div>
-                )} */}
+                )}}
             </main>
         </BaseLayout>
     );
