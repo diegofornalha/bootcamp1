@@ -16,7 +16,7 @@ sections:
         url: youtube.com
         style: primary
       - type: Link
-        label: "Conectar carteira\_\U0001F512"
+        label: "Conectar WALLET\U0001F512"
         altText: ''
         url: google.com
         showIcon: false
