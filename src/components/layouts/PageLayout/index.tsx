@@ -19,6 +19,7 @@ export default function PageLayout(props) {
 
 
   const getAllWaves = async () => {
+      
       try {      
         const { ethereum } = window;
       if (ethereum) {        
