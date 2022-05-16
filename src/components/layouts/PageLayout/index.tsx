@@ -19,15 +19,15 @@ export default function PageLayout(props) {
                 )}
 
 
-    <div className="mainContainer">
+                <div className="mainContainer">
 
-      <div className="dataContainer">
-        <div className="header">
-        Oi, eu sou um contrato inteligente!
+                    <div className="dataContainer">
+                        <div className="header">
+                            Oi, eu sou um contrato inteligente!
         </div>
-        </div>
-        </div>
-{/* 
+                    </div>
+                </div>
+                {/* 
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
