@@ -19,7 +19,7 @@ export default function PageLayout(props) {
                 )}
 
 <div>
-                            Oi, eu sou um contrato inteligente!
+Oi, eu sou um contrato inteligente!
 </div>
 
                 {/* 
