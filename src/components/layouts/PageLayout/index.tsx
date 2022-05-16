@@ -9,7 +9,7 @@ export default function PageLayout(props) {
     const sections = page.sections || [];
 
 
-    
+
 
     return (
         <BaseLayout page={page} site={site}>
@@ -19,6 +19,15 @@ export default function PageLayout(props) {
                         {page.title}
                     </h1>
                 )}
+
+    <div className="mainContainer">
+
+      <div className="dataContainer">
+        <div className="header">
+        Oi, eu sou um contrato inteligente!
+        </div>
+
+
                 {sections.length > 0 && (
                     <div data-sb-field-path="sections">
                         {sections.map((section, index) => {
