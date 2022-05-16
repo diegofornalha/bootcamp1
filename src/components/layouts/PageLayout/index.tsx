@@ -28,8 +28,7 @@ export default function PageLayout(props) {
                         {sections.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {
-                                throw new Error(`
-nenhum componente correspondente ao tipo da seção da página: ${section.type}`);
+                                throw new Error(`nenhum componente correspondente ao tipo da seção da página: ${section.type}`);
                             }
                             return <Component key={index} {...section} data-sb-field-path={`sections.${index}`} />;
                         })}
