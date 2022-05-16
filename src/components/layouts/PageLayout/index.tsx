@@ -8,6 +8,9 @@ export default function PageLayout(props) {
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
     const sections = page.sections || [];
 
+
+    
+
     return (
         <BaseLayout page={page} site={site}>
             <main id="main" className="sb-layout sb-page-layout">
