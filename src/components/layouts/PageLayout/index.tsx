@@ -20,8 +20,7 @@ export default function PageLayout(props) {
 
   const getAllWaves = async () => {
       try {      
-      if (document)    d
-        const { ethereum } = window;
+      if (document)            const { ethereum } = window;
       if (ethereum) {        
         const provider = new ethers.providers.Web3Provider(ethereum);
         const signer = provider.getSigner();
