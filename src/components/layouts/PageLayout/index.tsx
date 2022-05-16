@@ -28,13 +28,14 @@ export default function PageLayout(props) {
                         {sections.map((section, index) => {
                             const Component = getComponent(section.type);
                             if (!Component) {
-                                throw new Error(`no component matching the page section's type: ${section.type}`);
+                                throw new Error(`
+nenhum componente correspondente ao tipo da seção da página: ${section.type}`);
                             }
                             return <Component key={index} {...section} data-sb-field-path={`sections.${index}`} />;
                         })}
                     </div>
                 )}
-                
+
             </main>
         </BaseLayout>
     );
