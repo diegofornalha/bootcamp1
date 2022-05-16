@@ -1,4 +1,6 @@
 import * as React from 'react';
+import { ethers } from "ethers";
+import './App.css';
 
 import { getBaseLayoutComponent } from '../../../utils/base-layout';
 import { getComponent } from '../../components-registry';
