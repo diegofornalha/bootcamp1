@@ -26,6 +26,7 @@ export default function PageLayout(props) {
         <div className="header">
         Oi, eu sou um contrato inteligente!
         </div>
+        </div>
 
 
                 {sections.length > 0 && (
