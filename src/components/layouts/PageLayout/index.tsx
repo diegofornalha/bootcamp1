@@ -18,7 +18,6 @@ export default function PageLayout(props) {
                     </h1>
                 )}
 
-
                 <div className="mainContainer">
 
                     <div className="dataContainer">
